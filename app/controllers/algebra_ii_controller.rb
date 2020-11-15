@@ -1,0 +1,2 @@
+class AlgebraIiController < ApplicationController
+end

@@ -1,0 +1,37 @@
+# == Schema Information
+#
+# Table name: calculators
+#
+#  id           :integer          not null, primary key
+#  capabilities :string
+#  description  :string
+#  feedback     :string
+#  link_url     :string
+#  name         :string
+#  rating       :integer
+#  tags         :string
+#  created_at   :datetime         not null
+#  updated_at   :datetime         not null
+#
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  link_url: MyString
+  description: MyString
+  capabilities: MyString
+  rating: 1
+  tags: MyString
+  feedback: MyString
+  comments: MyString
+
+two:
+  name: MyString
+  link_url: MyString
+  description: MyString
+  capabilities: MyString
+  rating: 1
+  tags: MyString
+  feedback: MyString
+  comments: MyString

@@ -1,0 +1,16 @@
+-Navbar for all pages, 1:54, lrbrwnn1, new
+-Homepage UI, 0:34, lrbrwnn1, new
+-Tab names, 8:15, aking14, new 
+-Calculus page UI, 5:05, aking14-Bootstrap jumbotron heading, card subcategories, subcategory links to subcategory page & pamos-tabs and tab links underneath navbar, new
+-Algebra page UI, 8:19, aking14-Bootstrap jumbotron heading, card subcategories & pamos-tabs, tab links underneath navbar, subcategory links to subcategory page, new
+-Algebra II & Trigonometry page UI, 8:00, aking14-Bootstrap jumbotron heading, card subcategories & pamos-tabs, tab links underneath navbar, subcategory links to subcategory page, new
+-Stem page UI, 2:10, aking14-Bootstrap jumbotron heading, card subcategories & pamos-tabs, tab links underneath navbar, subcategory links to subcategory page, new
+-Physics page UI, 2:15, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Derivatives page UI, 5:47, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Integrals page UI, 5:49, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Sequences and Series page UI, 5:31, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Equations Solving UI, 8:41, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Standard Deviation UI, 8:10, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Limits page UI, 9:02, aking14-Bootstrap jumbotron heading, card calculators, calculator links to calculator page & pamos-tabs, tab links underneath navbar, new
+-Calculator page UI for each calculator, 2:31, wlfncher-show.html.erb calculator file, field sections, calculator link to website & lrbrwnn1-calculator seeds.rb data, new
+-Recommend a calculator page UI, 3:23, wlfncher-new.html.erb recommendations, heading, file, subject, comment, link to the calculator text boxes and leave review button & lrbrwnn1-recommendations routes setup, new

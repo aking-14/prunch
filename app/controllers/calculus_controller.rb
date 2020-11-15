@@ -1,0 +1,2 @@
+class CalculusController < ApplicationController
+end

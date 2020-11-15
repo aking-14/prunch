@@ -1,0 +1,23 @@
+<main role='main' class="container">
+
+    <p>
+        <b>Subject:</b><%= @recommendation.subject%>
+    </p>
+    <p>
+        <b>Comment:</b><%= @recommendation.comment %>
+    </p>
+
+    <p>
+        <b>Recommend:</b><%= @recommendation.recommend %>
+    </p>
+
+
+    <p>
+        <b>Tags:</b><%= link_to @Calculator.Tags, Calculator_url(@Calculator.Tags.id) %>
+    </p>
+
+    <p>
+        <%= link_to 'Back', rec_path %>
+    </p>
+
+</main>

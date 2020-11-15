@@ -1,0 +1,155 @@
+﻿# Individual Assignment Specifications
+
+- Team: Prunch
+- Iteration One
+
+## Special Roles
+
+- Project Coordinator: Rex Browning
+- Quality Assurance Czar: Priscila Amos
+- Video Demo Creators:
+ - Austin King
+ - Priscila Amos
+- Demo-Booth Operator: Logan Fancher
+
+## Tasks: Rex
+
+
+### Task 1: Home Page
+- Description: Create a homepage UI to reflect the general theme and design schema of the site.(https://github.com/memphis-cs-projects/comp4081-Prunch/tree/master/Milestones/milestone0/UI) 
+- How to Evaluate: Confirm that the home page exists and is more than a placeholder.
+- Outcome of Task: Done
+
+
+### Task 2: Home page backend
+- Description: Make controllers and routes for: Home Page
+- How to Evaluate: Ensure home page is accessible
+- Outcome of Task: Done
+
+
+### Task 3: Navbar
+- Description: Create a sitewide navbar 
+- How to Evaluate: Confirm that the navbar exists (links don’t necessarily have to work yet).
+- Outcome of Task: Done 
+
+
+### Task 4: Create unit tests for db
+- Description: Create unit tests for the database schema with
+- How to Evaluate: Test the unit testing functionality with valid/invalid values.
+- Outcome of Task: Done
+
+
+## Tasks: Priscila
+
+
+### Task 1: Subcategory Page
+- Description: Create a subcategory page UI that is consistent with the UI sketches (https://github.com/memphis-cs-projects/comp4081-Prunch/tree/master/Milestones/milestone0/UI) 
+- How to Evaluate: Make sure that the appropriate calculators are listed under each subcategory and link to the specific calculator page
+- Outcome of Task: Done
+
+
+### Task 2: Subcat page backend
+- Description: Make controllers and routes for: Subcategory Page
+- How to Evaluate: Ensure subcategory page is accessible
+- Outcome of Task: Done
+
+### Task 3: Instantiate database model
+- Description: Create the database schema from our model diagram.
+- How to Evaluate: Confirm that the schema.rb file reflects the design of the model class diagram.
+- Outcome of Task: Done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Tasks: Logan
+
+### Task 1: Recommended page
+- Description: Create a placeholder recommendation page.
+- How to Evaluate: Confirm that the page exists and has forms (they don’t need to be connected to anything yet).
+- Outcome of Task: Done
+
+
+### Task 2: Calculator Page
+- Description: Create a calculator page UI that is consistent with the UI sketches (https://github.com/memphis-cs-projects/comp4081-Prunch/tree/master/Milestones/milestone0/UI) 
+- How to Evaluate: Make sure the UI accommodates all of the requested features(ratings, picture box, title, etc)
+- Outcome of Task: Done
+
+
+### Task 3: Calculator Data
+- Description: Manually fill the database with a few calculators.
+- How to Evaluate: Confirm that at least a small number of example objects exist in the database.
+- Outcome of Task: Done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Tasks: Austin
+
+### Task 1: Demo Video
+- Description: Create a demo video to display the teams progress on the project
+- How to Evaluate: Make sure the video demonstrates the teams progress and makes clear who contributed what to the project.
+- Outcome of Task: Done
+
+
+### Task 2: Category Page
+- Description: Create a category page UI that is consistent with the UI sketches (https://github.com/memphis-cs-projects/comp4081-Prunch/tree/master/Milestones/milestone0/UI) 
+- How to Evaluate: Make sure that the appropriate subcategories are listed under each category and link to the specific subcategory page
+- Outcome of Task: Done
+
+
+### Task 3: Category page backend
+- Description: Make controllers and routes for: Category Page
+- How to Evaluate: Ensure category page is accessible
+- Outcome of Task: Done

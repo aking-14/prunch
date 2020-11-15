@@ -1,0 +1,73 @@
+<% provide(:title, 'Home')%>
+
+<head>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<style>
+    body 
+    {
+        background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    }
+</style>
+<body>
+    <header> <!------ Include the above in your HEAD tag ---------->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+        <%= link_to "Prunch", home_path, class: 'navbar-brand'%>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item <%= active_class(algebra_path) %>">
+                <%= link_to "Algebra", algebra_path, class: 'nav-link'%>
+              </li>
+              <li class="nav-item <%= active_class(trig_path) %>">
+                <%= link_to "Algebra II / Trig", trig_path, class: 'nav-link'%>
+              </li>
+              <li class="nav-item <%= active_class(calculus_path) %>">
+                <%= link_to "Calculus", calculus_path, class: 'nav-link'%>
+              </li>
+              <li class="nav-item <%= active_class(stem_path) %>">
+                <%= link_to "Stem", stem_path, class: 'nav-link'%>
+              </li>
+              <li class="nav-item <%= active_class(rec_path) %>">
+                <%= link_to "Recommend a Calculator", rec_path, class: 'nav-link'%>
+              </li>
+            </ul>
+          </div>
+        </nav>
+    </header>
+    <main>
+    
+    <main>
+     <div class="container">
+         <div class="row justify-content-center">
+            <div class="col=12 mt-3">
+                <div class="jumbotron ">
+                  <h1 class="display-4 text-center">Welcome to Pop & Crunch!</h1>
+                  <p class="lead text-center">An online tool for helping people find web-based calculators</p>
+                  <hr class="my-4">
+                  <p>Prunch is a web app to help students find calculators more easily online. There are four categories to choose from: Algebra, Algebra II/Trigonometry, Calculus, and STEM.</p>
+            </div>
+         </div>
+        </div>
+     </div>
+      <div class="container">
+       <div class="row justify-content-center">
+          <div class="col-sm-6">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Calculator of the month</h5>
+                <p class="card-text">Wolfram Alpha</p>
+                <a href="calculator/28?" class="btn btn-primary">Link to Review</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+     </div>
+    </main>
+
+</body>
