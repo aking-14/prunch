@@ -1,6 +1,2 @@
-# README
-
-If you are cloning this code please do the following:
-
-* run rails db:setup in the comp4081-Prunch folder after you have cloned the folder
-* That's it!
+# Prunch
+* Prunch is a web application that links users to various online calculators based on what subject and topic the user needs help in.
